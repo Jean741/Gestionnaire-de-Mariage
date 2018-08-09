@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<bases>
+  <base  default="True" authentifcation="Windows Authentication">
+    <nom >EtatCivil</nom >
+    <host >DESKTOP-AS2AEF0\SQLEXPRESS</host >
+    <login>sa</login>
+    <psw>pass</psw>
+    <desg >ProResto</desg >
+<version>ProbeautyS</version>
+  </base >
+</bases>
